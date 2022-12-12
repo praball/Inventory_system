@@ -1,8 +1,8 @@
 # Inventorily:
-Multi-functional Shopping and Inventory Handling site with 4 different entitie, which covers from taking items from the SUPPLIER, saving up to the storage or inventory and hence get approved by the ADMIN so as to be available for shopping to the CUSTOMER, which could further be delivered to them by the SUPPLIER. <br><br>
+Multi-functional Shopping and Inventory Handling site with 4 different entities, which covers from taking items from the SUPPLIER, saving up to the storage or inventory and hence getting approved by the ADMIN so as to be available for shopping to the CUSTOMER, which could further be delivered to them by the DELIVERY AGENT. <br><br>
 Languages used are PHP, HTML, CSS, JS for web development, XAMPP server, PHPMyAdmin and SQL for back-end and database.<br>
-<hr>
-<h2><b>Screenshots:</b></h2><br>
+<br>
+<h1><b>Screenshots:</b></h1>
 
 <h2>A. Website:</h2>
 1. Login and registration page:<br><br>
