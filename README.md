@@ -36,4 +36,9 @@ Languages used are PHP, HTML, CSS, JS for web development, XAMPP server, PHPMyAd
 <img src="https://user-images.githubusercontent.com/92200181/207126538-83f054ce-ba81-4c0a-87bc-aedc1e0108ae.png" width="700" height="350" display:"flex">
 <img src="https://user-images.githubusercontent.com/92200181/207127074-2a580d42-8bb4-4f31-a5cc-5eabf6c3a63f.png" width="700" height="350" display:"flex"><br>
 <img src="https://user-images.githubusercontent.com/92200181/207127575-2f66d9b3-515c-42e7-b8fb-bea2b82d8bb9.png" width="700" height="350">
-<img src="https://user-images.githubusercontent.com/92200181/207128038-f3266823-d4f4-44b9-8ea1-30b9bbf5502a.png" width="700" height="350">
+<img src="https://user-images.githubusercontent.com/92200181/207128038-f3266823-d4f4-44b9-8ea1-30b9bbf5502a.png" width="700" height="350"><br>
+<br><br>
+
+<h2>C. Agile artifacts:</h2>
+1. Velocity diagram:<br><br>
+<img src="https://user-images.githubusercontent.com/92200181/207130918-e0d62281-b6dc-4591-96ac-c05fd93ab27f.png" width="600" height="400"><br>
