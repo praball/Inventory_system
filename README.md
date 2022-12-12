@@ -3,3 +3,4 @@ Multi-functional Shopping and Inventory Handling site with 4 different entitie, 
 Languages used are PHP, HTML, CSS, JS for web development, XAMPP server, PHPMyAdmin and SQL for back-end and database.<br>
 <hr>
 <h2>Screenshots:</h2><br>
+![Screenshot (26)](https://user-images.githubusercontent.com/92200181/207121497-50559acc-93ef-421a-9055-8c22c91bf7ef.png)
